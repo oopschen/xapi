@@ -1,0 +1,24 @@
+{
+  "name": "xapi",
+  "version": "1.0.0",
+  "description": "A useful API mocking and docing tool to lower the cost between backend frontend development process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oopschen/xapi.git"
+  },
+  "keywords": [
+    "mock",
+    "doc",
+    "api"
+  ],
+  "author": "linxray@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oopschen/xapi/issues"
+  },
+  "homepage": "https://github.com/oopschen/xapi#readme"
+}
