@@ -4,7 +4,7 @@
   "description": "A useful API mocking and docing tool to lower the cost between backend frontend development process",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/oopschen/xapi/issues"
   },
-  "homepage": "https://github.com/oopschen/xapi#readme"
+  "homepage": "https://github.com/oopschen/xapi#readme",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "url-pattern": "^0.10.2"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.3"
+  }
 }
